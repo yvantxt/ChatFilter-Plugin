@@ -44,5 +44,3 @@ Join our Minecraft server and community:
 -
 Finx Studio
 Server Link: https://discord.gg/3nrTwFPVjH
-
-ققفف
