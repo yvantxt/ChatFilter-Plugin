@@ -38,6 +38,9 @@ Manage blocked words dynamically.
 
 
 
+Spigot:
+https://www.spigotmc.org/resources/chatfilter-finxstudio.124377/
+-
 
 🌐 Server / Community
 Join our Minecraft server and community:
